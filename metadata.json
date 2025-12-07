@@ -1,0 +1,7 @@
+{
+  "name": "SONURA",
+  "description": "A futuristic Progressive Web App for musicians featuring AI composition and audio tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
